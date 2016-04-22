@@ -18,11 +18,11 @@ This is an index of all Open Source Paylike projects on GitHub.
 	- [Node.js client for binlist.net](https://github.com/paylike/binlookup)
 - Docs and resources
 	- [HTTP API documentation](https://github.com/paylike/api-docs)
-	- [Static webshop example with Node.js](https://github.com/paylike/webshop-example)
 	- [Supported countries](https://github.com/paylike/countries)
 	- [Supported currencies](https://github.com/paylike/currencies)
 	- [Descriptors](https://github.com/paylike/descriptor)
 	- [Press](https://github.com/paylike/press)
+	- [Static webshop example with Node.js](https://github.com/paylike/webshop-example)
 - Libraries
 	- JavaScript (Node.js, browser, etc.)
 		- [Countries](https://github.com/paylike/countries)
