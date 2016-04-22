@@ -2,12 +2,6 @@
 
 This is an index of all Open Source Paylike projects on GitHub.
 
-- Clients
-	- [Client/browser](https://github.com/paylike/sdk)
-	- [Node.js](https://github.com/paylike/node-api)
-	- [PHP](https://github.com/paylike/php-api)*
-	- [.NET](https://github.com/paylike/Paylike.NET)*
-	- [Node.js client for binlist.net](https://github.com/paylike/binlookup)
 - Plugins
 	- PHP
 		- [WooCommerce](https://github.com/paylike/plugin-woocommerce)*
@@ -16,6 +10,12 @@ This is an index of all Open Source Paylike projects on GitHub.
 		- [OpenCart](https://github.com/paylike/plugin-opencart)*
 	- .NET
 		- [nopCommerce](https://github.com/paylike/plugin-nopcommerce)*
+- Clients
+	- [Client/browser](https://github.com/paylike/sdk)
+	- [Node.js](https://github.com/paylike/node-api)
+	- [PHP](https://github.com/paylike/php-api)*
+	- [.NET](https://github.com/paylike/Paylike.NET)*
+	- [Node.js client for binlist.net](https://github.com/paylike/binlookup)
 - Docs and resources
 	- [HTTP API documentation](https://github.com/paylike/api-docs)
 	- [Static webshop example with Node.js](https://github.com/paylike/webshop-example)
