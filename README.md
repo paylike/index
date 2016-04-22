@@ -32,4 +32,4 @@ This is an index of all Open Source Paylike projects on GitHub.
 			- [Currency selector](https://github.com/paylike/react-currency-select)
 			- [Country selector](https://github.com/paylike/react-country-select)
 
-\* Maintained by external people
+\* Maintained by super heroes in the community
