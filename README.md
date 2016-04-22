@@ -11,7 +11,7 @@ This is an index of all Open Source Paylike projects on GitHub.
 	- .NET
 		- [nopCommerce](https://github.com/paylike/plugin-nopcommerce)*
 - Clients
-	- [Client/browser](https://github.com/paylike/sdk)
+	- [Client/browser (Paylike SDK)](https://github.com/paylike/sdk)
 	- [Node.js](https://github.com/paylike/node-api)
 	- [PHP](https://github.com/paylike/php-api)*
 	- [.NET](https://github.com/paylike/Paylike.NET)*
