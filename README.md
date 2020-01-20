@@ -26,7 +26,7 @@ This is an index of all Open Source Paylike projects on GitHub.
 	- [Java](https://github.com/paylike/java-api)*
 	- [Go](https://github.com/paylike/go-api)*
 	- [Node.js client for binlist.net](https://github.com/paylike/binlookup)
-	- [Ruby](https://github.com/luneteyewear/paylike)
+	- [Ruby](https://github.com/luneteyewear/paylike)*
 - Docs and resources
 	- [HTTP API documentation](https://github.com/paylike/api-docs)
 	- [Supported countries](https://github.com/paylike/countries)
